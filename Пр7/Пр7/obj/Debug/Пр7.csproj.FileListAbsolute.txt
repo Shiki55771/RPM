@@ -1,0 +1,11 @@
+D:\208\Александров и Прохорова\Пр7\Пр7\bin\Debug\Пр7.exe.config
+D:\208\Александров и Прохорова\Пр7\Пр7\bin\Debug\Пр7.exe
+D:\208\Александров и Прохорова\Пр7\Пр7\bin\Debug\Пр7.pdb
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.csprojAssemblyReference.cache
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.Form1.resources
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.Properties.Resources.resources
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.csproj.GenerateResource.cache
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.csproj.CoreCompileInputs.cache
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.exe
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.pdb
+D:\208\Александров и Прохорова\Пр7\Пр7\obj\Debug\Пр7.Form2.resources
