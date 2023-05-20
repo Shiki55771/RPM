@@ -1,0 +1,9 @@
+D:\208\Александров и Прохорова\ПР 6\ПР 6\obj\Debug\ПР 6.csprojAssemblyReference.cache
+D:\208\Александров и Прохорова\ПР 6\ПР 6\obj\Debug\ПР_6.Properties.Resources.resources
+D:\208\Александров и Прохорова\ПР 6\ПР 6\obj\Debug\ПР 6.csproj.GenerateResource.cache
+D:\208\Александров и Прохорова\ПР 6\ПР 6\obj\Debug\ПР 6.csproj.CoreCompileInputs.cache
+D:\208\Александров и Прохорова\ПР 6\ПР 6\bin\Debug\ПР 6.exe.config
+D:\208\Александров и Прохорова\ПР 6\ПР 6\bin\Debug\ПР 6.exe
+D:\208\Александров и Прохорова\ПР 6\ПР 6\bin\Debug\ПР 6.pdb
+D:\208\Александров и Прохорова\ПР 6\ПР 6\obj\Debug\ПР 6.exe
+D:\208\Александров и Прохорова\ПР 6\ПР 6\obj\Debug\ПР 6.pdb
