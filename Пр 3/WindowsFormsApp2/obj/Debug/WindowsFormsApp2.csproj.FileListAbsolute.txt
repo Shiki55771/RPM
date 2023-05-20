@@ -1,0 +1,10 @@
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Общая для записи студентам\208\Прохорова и Александров\Практическая Формс\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
